@@ -1,3 +1,3 @@
-# DarkPixlz-s-Modern-Theme
+# Blackout
 
-tba
+A Discourse theme made for oLED Monitors and displays.
