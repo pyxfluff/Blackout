@@ -113,3 +113,16 @@ blockquote, aside.quote .title {
     }
   }
 }
+
+.sidebar-wrapper {
+    background:black;
+}
+
+.sidebar-section-link-wrapper .sidebar-section-link.active,
+.btn, .list-controls .combo-box .combo-box-header {
+    background-color:black;
+}
+
+.discourse-no-touch .sidebar-section-wrapper .sidebar-section-header-wrapper:hover {
+    background:black
+}
